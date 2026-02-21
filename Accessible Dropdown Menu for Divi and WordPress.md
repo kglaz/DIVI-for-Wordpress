@@ -129,7 +129,3 @@ jQuery(document).ready(function($) {
 ## Zgodność
 
 Rozwiązanie zostało przetestowane z motywem Divi (Elegant Themes) oraz standardowymi modułami Menu WordPress. Wymaga biblioteki jQuery (standard w WordPress).
-
----
-
-Czy chciałbyś, abym przygotował również wersję tego dokumentu w języku angielskim do tego samego repozytorium?
