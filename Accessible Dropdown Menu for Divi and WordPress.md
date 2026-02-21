@@ -10,7 +10,7 @@ Wiele motywów WordPress (w tym Divi) opiera nawigację podmenu na zdarzeniu naj
 * Korzystających z czytników ekranu (Screen Readers).
 * Z niepełnosprawnościami motorycznymi.
 
-Niniejsze rozwiązanie blokuje automatyczne rozwijanie menu po najechaniu myszą na korzyść świadomej interakcji użytkownika.
+Rozwiązanie blokuje automatyczne rozwijanie menu po najechaniu myszą na rzecz świadomej akcji użytkownika.
 
 ## Funkcjonalności
 
